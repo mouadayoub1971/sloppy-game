@@ -14,3 +14,16 @@
 .mobile-next{display:none}.mobile-next[hidden]{display:none!important}@media(max-width:850px){.mobile-next{display:flex;margin-top:18px}.match-column,.control-column{scroll-margin-top:14px}}
 
 .voice-status{font-size:12px;color:var(--muted);margin-left:12px}#reaction-audio{display:none}@media(max-width:540px){.voice-status{display:inline-block;font-size:11px;margin-bottom:10px}}
+
+
+/* Extend the existing pitch palette for isolated character chats. */
+.ai-controls { margin-bottom: 1rem; }
+#ai-status, .chat-hint { font-size: .875rem; line-height: 1.5; color: #c5d7ce; }
+.private-chat { margin-top: 1rem; }
+.private-chat[hidden] { display: none; }
+.private-chat label { display: block; font-size: 1rem; font-weight: 700; margin-bottom: .5rem; }
+.private-chat textarea { box-sizing: border-box; display: block; width: 100%; resize: vertical; background: #0c191b; color: #f2f6e9; border: 1px solid #668578; border-radius: .5rem; padding: .7rem; font: inherit; font-size: 1rem; margin: .6rem 0; }
+.private-chat textarea:focus-visible { outline: 2px solid #d9fa54; outline-offset: 2px; }
+.chat-log { max-height: 13rem; overflow-y: auto; overflow-wrap: anywhere; font-size: 1rem; line-height: 1.5; }
+.chat-log p { margin: .5rem 0; }
+.ai-active .agent-card fieldset, .ai-active .agent-footer, .ai-active .advice-note { display: none; }
