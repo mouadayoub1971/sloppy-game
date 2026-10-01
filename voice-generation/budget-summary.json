@@ -1,0 +1,11 @@
+{
+  "model": "microsoft/mai-voice-2.1",
+  "rate_usd_per_character": "0.000022",
+  "reserved_usd": "0.40",
+  "prior_actual_usd": "0.00497714",
+  "manifest_entries": 144,
+  "actual_total_usd": "0.363396",
+  "cumulative_actual_usd": "0.36837314",
+  "reservation_released": true,
+  "remaining_global_budget_usd": "4.63162686"
+}

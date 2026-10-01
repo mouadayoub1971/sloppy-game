@@ -1,3 +1,11 @@
+CURRENT AUDIO PROVENANCE
+
+The 144 MP3 files in this directory were generated using Microsoft MAI-Voice-2.1 via OpenRouter on 2026-10-01. Nova uses en-US-Grant:MAI-Voice-2.1; Vale uses en-US-Jasper:MAI-Voice-2.1. Original captions and manifest filenames are preserved. Generation IDs, validation, and costs are recorded in voice-generation/natural-voices.json at the repository root.
+
+LEGACY FLITE NOTICE
+
+The following notice is retained for historical attribution of the previous Flite-generated assets. It does not describe or license the replacement MAI-generated audio.
+
 This package was debianized by Mario Lang <mlang@delysid.org> on
 Tue,  7 May 2002 09:43:37 +0200.
 Now maintained by Denis Briand <denis@narcan.fr>
