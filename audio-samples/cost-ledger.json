@@ -60,6 +60,25 @@
       "sha256": "ddb6e159e17b0251c884d46ed2e12291ad7a799e4ac9902f0f035bca6c02fbc4"
     }
   ],
-  "actual_total_usd": "0.004928",
-  "remaining_game_budget_usd": "4.995072"
+  "actual_total_usd": "0.00497714",
+  "remaining_game_budget_usd": "4.99502286",
+  "speech_actual_total_usd": "0.004928",
+  "dialogue_tests": [
+    {
+      "character": "nova",
+      "generation_id": "gen-1790883745-NHOKY6YPthcSxQLWD0MU",
+      "actual_cost_usd": "2.58e-05",
+      "latency_seconds": 8.554,
+      "passed": true
+    },
+    {
+      "character": "vale",
+      "generation_id": "gen-1790883753-8oDuGojiUisA07zfq9R6",
+      "actual_cost_usd": "2.334e-05",
+      "latency_seconds": 7.41,
+      "passed": true
+    }
+  ],
+  "dialogue_actual_total_usd": "0.00004914",
+  "reservations_released": true
 }
