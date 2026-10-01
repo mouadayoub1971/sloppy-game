@@ -1,0 +1,65 @@
+{
+  "model": "microsoft/mai-voice-2.1",
+  "reserved_usd": "0.02",
+  "estimated_usd": "0.004928",
+  "samples": [
+    {
+      "name": "nova",
+      "voice": "en-US-Grant:MAI-Voice-2.1",
+      "input": "Ha! Trying to trick me? You said center, but I shot left. I don\u2019t trust your calls right now. Your tip would have worked. Credit where it\u2019s due.",
+      "characters": 144,
+      "estimated_usd": "0.003168",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "generation_id": "gen-tts-1790883377-SggjrT84mXAiqLByeQKk",
+      "bytes": 208320,
+      "actual_cost_usd": 0.003168,
+      "billing_generation_id": "gen-tts-1790883377-SggjrT84mXAiqLByeQKk",
+      "validation": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "24000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "10.416000"
+        }
+      },
+      "sha256": "b84e36ea49467d57d9715c8eb28d53833c0099749000b6c5901653ed0585aa40"
+    },
+    {
+      "name": "vale",
+      "voice": "en-US-Jasper:MAI-Voice-2.1",
+      "input": "Got it! You said center. I dived center. That\u2019s a save. Good call. Keep talking.",
+      "characters": 80,
+      "estimated_usd": "0.001760",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "generation_id": "gen-tts-1790883379-NkqOhti3HVDm3s44nOod",
+      "bytes": 146880,
+      "actual_cost_usd": 0.00176,
+      "billing_generation_id": "gen-tts-1790883379-NkqOhti3HVDm3s44nOod",
+      "validation": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "24000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "7.344000"
+        }
+      },
+      "sha256": "ddb6e159e17b0251c884d46ed2e12291ad7a799e4ac9902f0f035bca6c02fbc4"
+    }
+  ],
+  "actual_total_usd": "0.004928",
+  "remaining_game_budget_usd": "4.995072"
+}
