@@ -1,9 +1,7 @@
 # Sloppy Game
 
-Double Bluff: a football penalty game with independent striker and goalkeeper characters, trust, promises, and spoken reactions.
+Football penalty mind game. Serve dist/ with a static HTTP server. Test: node tests/engine.test.mjs
 
 Play: https://double-bluff-penalties.mouad22.chatgpt.site
 
-Serve `dist/` using any static HTTP server. Run engine checks with `node tests/engine.test.cjs` (see tests directory for available scripts).
-
-Current version uses local game logic and bundled synthetic speech. No API credentials are included.
+Local game logic and synthetic audio. No API credentials included.
